@@ -1,1 +1,1 @@
-Homework5's score is not provided.
+Homework5's score was not provided.
