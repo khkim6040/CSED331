@@ -10,6 +10,12 @@ We will also spend a few weeks on computational intractability and approximation
 Name: Heekap Ahn  
 Homepage: https://tcs.postech.ac.kr/~heekap/
 
+## Grading Policy
+Midterm exam: 30%\
+Final exam: 30%\
+Homework: 20%\
+Problem solving(Assignment): 20%
+
 ## References
 Algorithms / Jeff Erickson / PDF version available (free) online at http://algorithms.wtf / ISBN 9781792644832\
 Algorithms / Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani / McGRAW-HILL / ISBN 9780071259750\
