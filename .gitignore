@@ -1,0 +1,5 @@
+*/.vscode/
+*/*/.vscode/
+*/*/.cph/
+*/*/*.bin
+*/*/*.exe
